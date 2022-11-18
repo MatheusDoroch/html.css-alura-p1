@@ -3,7 +3,7 @@ body {
 }
 
 #banner {
-	width: 100%;
+    width: 100%;
 }
 
 .principal{
@@ -16,7 +16,7 @@ body {
 }
 
 .titulo-centralizado {
-	text-align: center
+    text-align: center
 }
 
 p {
@@ -28,7 +28,7 @@ p {
 }
 
 em strong {
-	color: #FF0000;
+    color: #FF0000;
 }
 
 .itens{
